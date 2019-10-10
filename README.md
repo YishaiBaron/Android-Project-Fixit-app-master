@@ -29,15 +29,19 @@ The system consists of a mobile app for Android system. The database is used by 
 <img height="500" src="./ScreenShots/4.jpg">
 
 # Main Screen (after a authorization)
-<img height="500" src="./ScreenShots/5.jpg">
+
+  <img height="500" src="./ScreenShots/5.jpg">
 <img height="500" src="./ScreenShots/6.jpg">
 
+
 # Customer Activity
+<p align="center">
 ![Customer Activity](./ScreenShots/7.png)
 Perform a service call
 ![Customer Activity](./ScreenShots/8.png)
 If approved back to main menu
 ![Main Screen](./ScreenShots/9.jpg)
+  </p>
 # Professional Acticvity:
 ![Professional Acticvity](./ScreenShots/13.png )
 ![Professional Acticvity](./ScreenShots/14.png)
