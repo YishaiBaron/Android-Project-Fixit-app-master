@@ -36,7 +36,7 @@ The system consists of a mobile app for Android system. The database is used by 
 
 # Customer Activity
 
-![Customer Activity](./ScreenShots/7.png)
+ <img height="500" src="./ScreenShots/7.png">
 ## Perform a service call:
  <img height="500" src="./ScreenShots/8.png">
 ## If approved back to main menu:
