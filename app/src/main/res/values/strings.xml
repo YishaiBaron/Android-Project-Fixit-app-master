@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Fixit</string>
+    <string name="title_activity_prof_map">Map</string>
+    <string name="title_activity_proff">Map</string>
+
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="phone_title_text">Phone Number</string>
+
+    <string name="infoWindowTextView">Do you like potatoes?</string>
+    <string name="navigation"> ניווט ליעד בWaze</string>
+    <string name="phone">התקשר</string>
+    <string name="Whatsapp">Whatsapp</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="hint_phone_number">מספר טלפון נייד</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="status_code_sent">Code Sent</string>
+    <string name="status_verification_failed">Verification failed</string>
+    <string name="status_verification_succeeded">Verification succeeded</string>
+    <string name="status_sign_in_failed">Sign-in failed</string>
+    <string name="instant_validation">(instant validation)</string>
+    <string name="signed_in">Signed In</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="facebook_title_text">Facebook Login</string>
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="facebook_app_id">554416565364922</string>
+    <string name="fb_login_protocol_scheme">fb554416565364922</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="action_sign_in">כניסה</string>
+    <string name="action_register">הרשמה</string>
+
+
+    <string name="action_sign_in_short">הירשם</string>
+    <string name="email">אימייל</string>
+    <string name="minimum_password">הסיסמה קצרה מדי, הזן מינימום 6 תווים!</string>
+    <string name="auth_failed">האימות נכשל, בדוק את הדוא"ל והסיסמה שלך או הירשם</string>
+
+    <string name="hint_email">אימייל</string>
+    <string name="hint_password">סיסמה</string>
+    <string name="hint_firstname">שם פרטי</string>
+
+    <string name="hint_lastname">שם משפחה</string>
+
+    <string name="btn_login">כניסה</string>
+    <string name="btn_link_to_register">לא רשום? הירשם לFix עכשיו!!</string>
+    <string name="btn_link_to_login">כבר רשום. תחבר אותי!!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">שכחת סיסמה?</string>
+    <string name="btn_reset_password"> איפוס סיסמה</string>
+    <string name="btn_back">חזרה</string>
+
+    <string name="lbl_forgot_password">שכחת סיסמה?</string>
+    <string name="forgot_password_msg">אנו זקוקים לכתובת הדואר האלקטרוני הרשום שלך כדי לשלוח לך הוראות לאיפוס סיסמה.</string>
+
+</resources>

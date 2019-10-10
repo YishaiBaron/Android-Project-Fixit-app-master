@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/editTextFormInfoWindow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/editTextFormInfoWindow"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/ic_waze"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/editTextFormInfoWindow"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_telephone"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/editTextFormInfoWindow"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/ic_whatsapp_logo"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        />
+
+</RelativeLayout>

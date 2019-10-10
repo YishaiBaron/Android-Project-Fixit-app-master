@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.fixxapp.MainActivity">
+
+    <!--
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="הרשמה"
+            android:id="@+id/Customer"
+            />
+
+            <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="I'm a Professional"
+            android:id="@+id/Professional"
+              />
+       <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Demo"
+       android:id="@+id/Demo"
+       />
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Google Auth"
+          android:id="@+id/Google"
+          />
+    <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Facebook"
+          android:id="@+id/Facebook"
+          />
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="כניסה"
+       android:id="@+id/login"
+       />
+
+   -->
+
+</LinearLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/blue">
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:visibility="gone">
+
+    </ProgressBar>
+
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:shadowColor="#CEB71E"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:textColor="#90CAF9"
+
+        />
+
+    <TextView
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"
+
+        >
+    </TextView>
+    <TextView
+        android:id="@+id/ket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#FFB300"
+
+        >
+    </TextView>
+    <TextView
+        android:id="@+id/ret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="#FFFFFF"
+
+
+        >
+    </TextView>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+
+        android:text="התנתק מהמערכת"
+        android:textSize="15dp"
+        android:theme="@style/MyButton" />
+
+        <Button
+            android:id="@+id/setting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="הגדרות"
+            android:textSize="15dp"
+            android:theme="@style/MyButton" />
+
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/customer"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:layout_weight="1"
+
+        android:textStyle="bold"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="@drawable/pic11"
+
+        />
+    <!--
+           -->
+
+
+    <Button
+        android:id="@+id/proff"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+
+        android:background="@drawable/pic22"
+
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:focusable="true"
+        />
+
+</LinearLayout>
+
