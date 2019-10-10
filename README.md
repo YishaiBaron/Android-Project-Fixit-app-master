@@ -19,7 +19,7 @@ The system consists of a mobile app for Android system. The database is used by 
 # Enter an application (splash)
 ![Enter an application](./ScreenShots/1.png)
 
-<img height="400" src="./ScreenShots/1.png">
+<img height="500" src="./ScreenShots/1.png">
 
 
 # Login Screen
