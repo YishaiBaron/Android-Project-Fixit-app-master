@@ -35,11 +35,12 @@ The system consists of a mobile app for Android system. The database is used by 
 
 
 # Customer Activity
-
  <img height="500" src="./ScreenShots/7.png">
-### Perform a service call:
+ 
+## Perform a service call:
  <img height="500" src="./ScreenShots/8.png">
-### If approved back to main menu:
+ 
+## If approved back to main menu:
  <img height="500" src="./ScreenShots/9.jpg">
 
 # Professional Acticvity:
