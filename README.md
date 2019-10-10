@@ -32,20 +32,24 @@ The system consists of a mobile app for Android system. The database is used by 
 <p align="center">
  <img height="500" src="./ScreenShots/5.jpg">
 <img height="500" src="./ScreenShots/6.jpg">
-</p>
+
 
 # Customer Activity
+
 ![Customer Activity](./ScreenShots/7.png)
-Perform a service call
-![Customer Activity](./ScreenShots/8.png)
-If approved back to main menu
-![Main Screen](./ScreenShots/9.jpg)
+## Perform a service call:
+ <img height="500" src="./ScreenShots/8.png">
+## If approved back to main menu:
+ <img height="500" src="./ScreenShots/9.jpg">
 
 # Professional Acticvity:
-![Professional Acticvity](./ScreenShots/13.png )
-![Professional Acticvity](./ScreenShots/14.png)
+<p align="center">
+ <img height="500" src="./ScreenShots/13.png">
+ <img height="500" src="./ScreenShots/14.png">
+</p>
 
 # Setting Acticvity:
-![Setting Acticvity](./ScreenShots/15.jpg)
-![Setting Acticvity](./ScreenShots/16.jpg)
-
+<p align="center">
+ <img height="500" src="./ScreenShots/15.jpg">
+ <img height="500" src="./ScreenShots/16.jpg">
+</p>
