@@ -19,17 +19,19 @@ The system consists of a mobile app for Android system. The database is used by 
 # Enter an application (splash)
 <img height="400" src="./ScreenShots/1.png">
 
-
 # Login Screen
 <img height="400" src="./ScreenShots/2.jpg">
 
 # Register Screen
-<img height="400" src="./ScreenShots/3.jpg">
+<img height="500" src="./ScreenShots/3.jpg">
+
 # Reset passeord screen
-<img height="400" src="./ScreenShots/4.jpg">
+<img height="500" src="./ScreenShots/4.jpg">
+
 # Main Screen (after a authorization)
-<img height="400" src="./ScreenShots/5.jpg">
-<img height="400" src="./ScreenShots/6.jpg">
+<img height="500" src="./ScreenShots/5.jpg">
+<img height="500" src="./ScreenShots/6.jpg">
+
 # Customer Activity
 ![Customer Activity](./ScreenShots/7.png)
 Perform a service call
