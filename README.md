@@ -15,12 +15,12 @@ The system consists of a mobile app for Android system. The database is used by 
 
 
 # Enter an application (splash)
-![Enter an application](./ScreenShots/1.png | height="400")
+![Enter an application](./ScreenShots/1.png | width=100)
 
 # Login Screen
-![Login Screen](./ScreenShots/2.jpg | height="400")
+![Login Screen](./ScreenShots/2.jpg | width=100)
 # Register Screen
-![Login Screen](./ScreenShots/3.jpg | height="400")
+![Login Screen](./ScreenShots/3.jpg | width=100)
 # Reset passeord screen
 ![Reset passeord screen](./ScreenShots/4.jpg)
 # Main Screen (after a authorization)
