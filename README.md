@@ -10,7 +10,7 @@ The proposed model is a mobile app for locating service provider services within
 The system consists of a mobile app for Android system. The database is used by Firebase. The database is used to store data from both the client's mobile application and the Internet dashboard. The server is used to process requests between clients and the database.
 
 # Database:
-![data base uml](./ScreenShots/db.png){: style="height:150px;width:150px"}
+![data base uml](./ScreenShots/db.png)
 ![gps](./ScreenShots/gps.png)
 
 
@@ -19,7 +19,7 @@ The system consists of a mobile app for Android system. The database is used by 
 # Enter an application (splash)
 ![Enter an application](./ScreenShots/1.png)
 
-<img height="175" src="./ScreenShots/1.png">
+<img height="400" src="./ScreenShots/1.png">
 
 
 # Login Screen
