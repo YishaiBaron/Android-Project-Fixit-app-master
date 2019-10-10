@@ -13,11 +13,11 @@ The system consists of a mobile app for Android system. The database is used by 
 ![data base uml](./ScreenShots/db.png)
 ![gps](./ScreenShots/gps.png)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png){: style="height:150px;width:150px"}
 
 
 # Enter an application (splash)
-![Enter an application](./ScreenShots/1.png {:height="36px" width="36px"}.)
+![Enter an application](./ScreenShots/1.png)
 
 # Login Screen
 ![Login Screen](./ScreenShots/2.jpg)
