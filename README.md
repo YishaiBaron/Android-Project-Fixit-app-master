@@ -15,12 +15,12 @@ The system consists of a mobile app for Android system. The database is used by 
 
 
 # Enter an application (splash)
-![Enter an application](./ScreenShots/1.png)
+![Enter an application](./ScreenShots/1.png height="400")
 
 # Login Screen
-![Login Screen](./ScreenShots/2.jpg)
+![Login Screen](./ScreenShots/2.jpg height="400")
 # Register Screen
-![Login Screen](./ScreenShots/3.jpg)
+![Login Screen](./ScreenShots/3.jpg height="400")
 # Reset passeord screen
 ![Reset passeord screen](./ScreenShots/4.jpg)
 # Main Screen (after a authorization)
@@ -33,10 +33,10 @@ Perform a service call
 If approved back to main menu
 ![Main Screen](./ScreenShots/9.jpg)
 # Professional Acticvity:
-![Professional Acticvity](./ScreenShots/13.png)
+![Professional Acticvity](./ScreenShots/13.png )
 ![Professional Acticvity](./ScreenShots/14.png)
 
 # Setting Acticvity:
-![Setting Acticvity](./ScreenShots/15.png)
-![Setting Acticvity](./ScreenShots/16.png)
+![Setting Acticvity](./ScreenShots/15.jpg)
+![Setting Acticvity](./ScreenShots/16.jpg)
 
