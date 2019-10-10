@@ -18,25 +18,25 @@ The system consists of a mobile app for Android system. The database is used by 
 ![Enter an application](./ScreenShots/1.png)
 
 # Login Screen
-![Login Screen](./ScreenShots/2.png)
+![Login Screen](./ScreenShots/2.jpg)
 # Register Screen
-![Login Screen](./ScreenShots/3.png)
+![Login Screen](./ScreenShots/3.jpg)
 # Reset passeord screen
-![Reset passeord screen](./ScreenShots/4.png)
+![Reset passeord screen](./ScreenShots/4.jpg)
 # Main Screen (after a authorization)
-![Main Screen](./ScreenShots/5.png)
-![Main Screen](./ScreenShots/6.png)
+![Main Screen](./ScreenShots/5.jpg)
+![Main Screen](./ScreenShots/6.jpg)
 # Customer Activity
 ![Customer Activity](./ScreenShots/7.png)
 Perform a service call
 ![Customer Activity](./ScreenShots/8.png)
 If approved back to main menu
-![Main Screen](./ScreenShots/9.png)
+![Main Screen](./ScreenShots/9.jpg)
 # Professional Acticvity:
 ![Professional Acticvity](./ScreenShots/10.png)
 ![Professional Acticvity](./ScreenShots/11.png)
 
 # Setting Acticvity:
-![Setting Acticvity](./ScreenShots/12.png)
 ![Setting Acticvity](./ScreenShots/13.png)
+![Setting Acticvity](./ScreenShots/14.png)
 
